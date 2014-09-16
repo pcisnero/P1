@@ -1,35 +1,28 @@
-# hello, This is Markdown Live Preview
+# README Markdown P1
 
 ----
-## what is Markdown?
-see [Wikipedia](http://en.wikipedia.org/wiki/Markdown)
+## Live URL of the project?
+see [Project 1](http://en.wikipedia.org/wiki/Markdown)
 
-> Markdown is a lightweight markup language, originally created by John Gruber and Aaron Swartz allowing people "to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)".
 
-----
-## usage
-1. Write markdown text in this textarea.
-2. Click 'HTML Preview' button.
 
 ----
-## markdown quick reference
-# headers
+## Description of the project (2-3+ sentences).
+1. Creation of a Web app portfolio, that includes the links to the rest of the projects P2,P3 and P4 
+2. It also contains the answers to 5 questions and photographs
 
-*emphasis*
-
-**strong**
-
-* list
-
->block quote
-
-    code (4 spaces indent)
-[links](http://wikipedia.org)
 
 ----
-## changelog
-* 17-Feb-2013 re-design
+## Demo information: 
+
+
+No demo for P1
 
 ----
-## thanks
-* [markdown-js](https://github.com/evilstreak/markdown-js)
+## Any details the instructor or TA needs to know, for example, test credentials.
+* No test credentials 
+I used PureCSS but since I dont have experience using GitHub or the live server I included the style in the HTML and used link for photographs
+
+----
+## A list of any plugins, libraries,
+* Pure CSS as suggested in the project description 
